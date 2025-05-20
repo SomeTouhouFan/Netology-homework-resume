@@ -13,4 +13,4 @@
 
 **Current live issue:**
 
-How to tell my warehouse coworkers that I won't go fishing on my vacation because I would like to deepen my programming skills. 
+How to tell my warehouse coworkers that I won't go fishing on my vacation because I would like to deepen my programming skills?
